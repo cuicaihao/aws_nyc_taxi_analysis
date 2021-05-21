@@ -1,10 +1,12 @@
-AWS NYC Taxi Analysis
-==============================
+# AWS NYC Taxi Analysis
 
-New York City Taxi and Limousine Commission (TLC) Trip Record Data Demo. ABC company is a ride hailing company, they have large volume of subscribe users using their mobile app to get transportation services from local drivers. The mobile app for passengers and drivers will upload activities data to server for data analyst. ABC company wants to leverage AI/Machine Learning technologies to improve their business. One of their key requirements is demand forecast. They prefer to split a city into different grid, and forecast the demand in each grid at 5min, 15min and 30min slot. If the demand goes high in future, ABC company will increase the price in that grid to slow down the demands.
+New York City Taxi and Limousine Commission (TLC) Trip Record Data Demo.
 
-Project Organization
-------------
+Large-Scale Data Modelling and Analysis.
+
+![feature Image](./reports/NYC_Area.jpg)
+
+## Project Organization
 
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
@@ -51,7 +53,6 @@ Project Organization
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
-
---------
+---
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
