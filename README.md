@@ -55,4 +55,18 @@ Large-Scale Data Modelling and Analysis.
 
 ---
 
+### References:
+
+[Machine Learning Lens - AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/machine-learning-lens/welcome.html)
+
+[AWS S3 Bucket: New York City Taxi and Limousine Commission (TLC) Trip Record Data](https://registry.opendata.aws/nyc-tlc-trip-records-pds/)
+
+[2019 May: Exploring data with Python and Amazon S3 Select](https://github.com/aws-samples/cloud-experiments/tree/master/exploring-data)
+
+[2017-April Build a Real-time Stream Processing Pipeline with Apache Flink on AWS](https://aws.amazon.com/blogs/big-data/build-a-real-time-stream-processing-pipeline-with-apache-flink-on-aws/)
+
+[2021-Feb Architect and build the full machine learning lifecycle with AWS: An end-to-end Amazon SageMaker demo](https://aws.amazon.com/blogs/machine-learning/architect-and-build-the-full-machine-learning-lifecycle-with-amazon-sagemaker/)
+
+[2021-Feb Machine learning on distributed Dask using Amazon SageMaker and AWS Fargate](https://aws.amazon.com/blogs/machine-learning/machine-learning-on-distributed-dask-using-amazon-sagemaker-and-aws-fargate/)
+
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
