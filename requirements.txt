@@ -8,7 +8,7 @@ backcall @ file:///home/conda/feedstock_root/build_artifacts/backcall_1592338393
 backports.functools-lru-cache @ file:///home/conda/feedstock_root/build_artifacts/backports.functools_lru_cache_1618230623929/work
 bleach @ file:///home/conda/feedstock_root/build_artifacts/bleach_1612213472466/work
 brotlipy==0.7.0
-certifi==2022.12.7
+certifi==2023.7.22
 cffi @ file:///Users/runner/miniforge3/conda-bld/cffi_1613414067184/work
 chardet @ file:///Users/runner/miniforge3/conda-bld/chardet_1610093477312/work
 cryptography @ file:///Users/runner/miniforge3/conda-bld/cryptography_1616851512278/work
